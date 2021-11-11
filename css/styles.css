@@ -48,6 +48,8 @@ h2 + p {
   font-weight: 900;
   text-transform: uppercase;
   order: -1;
+  border-top: 5px solid #f18119;
+  border-image: linear-gradient(to left, #ff713b, #ffa51d) 1;
 }
 
 .fine-print {
