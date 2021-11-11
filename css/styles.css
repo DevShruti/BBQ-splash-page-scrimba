@@ -91,6 +91,20 @@ strong {
 }
 
 /* =================
+   form
+   ================= */
+
+.email-collector {
+  width: 80%;
+  max-width: 300px;
+}
+
+input,
+.btn {
+  width: 100%;
+}
+
+/* =================
  media queries 
  ================= */
 
